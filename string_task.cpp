@@ -3,6 +3,7 @@
 #include <algorithm>
 //lab 10.1
 //string search, rearrangement
+//new version
 void InputString(std::string& str) 
 {
 	std::cout << "Enter string: ";
