@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <algorithm>
-
+//lab 10.1
 void InputString(std::string& str) 
 {
 	std::cout << "Enter string: ";
