@@ -2,6 +2,7 @@
 #include <string>
 #include <algorithm>
 //lab 10.1
+//string search, rearrangement
 void InputString(std::string& str) 
 {
 	std::cout << "Enter string: ";
